@@ -1,4 +1,5 @@
 # 💫 About Me:
+Master's of Science in Business Analytics student at Carnegie Mellon University - Tepper School of Business.
 I am currently enhancing my skills in SQL, Python, and R with a focus on Data Analytics. Outside of work, I enjoy playing video games, reading, and staying active through sports like soccer and tennis.
 
 
